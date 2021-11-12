@@ -9,7 +9,6 @@ I welcome you to my github profile where
 - 🔭 I’m currently working on Javascript (React.js and Next.js)
 - 🌱 I’m currently learning Next,js
 - 👯 I’m looking to collaborate on HacktoberFest 2021
-- 🤔 I’m looking for help with getting a remote job
 - 💬 Ask me about my work experience
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chiranjeev-agrawal-07a071a1/), [GMail](chiranjeevagrawal57@gmail.com)
 - ⚡ Fun fact: I like exploring new technologies and want to get connected with some great remote company.
